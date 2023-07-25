@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @taeyounga- 👀 I’m interested in learning how to code and build apps of all sort...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on whatever apps for linux that you recommend, just did a fresh install of ubuntu jellyfish on formally windows os...
+
+
+<!---
+taeyoungrk/taeyoungrk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
